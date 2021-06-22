@@ -57,15 +57,15 @@
 
 -  年轻人的亚健康占比人数增多，healthcare需要进入生活，随着经济发展，职场与家庭等其他因素带来的压力，越来越多家庭的*「中流砥柱」*虽然没有器官、组织、功能上的病症和缺陷，但是自我感觉不适，疲劳乏力，反应迟钝、活力降低、适应力下降，经常处在焦虑、烦乱、无聊、无助的状态中，自觉活得很累。
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0105/232427_56349793_2230528.png "屏幕截图.png")
+![输入图片说明](https://gitee.com/edithx/healthcare/raw/master/picture/%E4%BA%BA%E7%BE%A4%E5%88%86%E6%9E%90.png)
 
 - 中老年人的身体状况不容小觑，根据我国数据统计肺癌位居我国恶性肿瘤发病首位，其他高发恶性肿瘤依次为胃癌、结直肠癌、肝癌和乳腺癌等,前10位恶性肿瘤发病约占全部恶性肿瘤发病的百分之七十五，随着年龄的增加，身体新陈代谢的减弱，免疫系统的衰弱，人体细胞分裂次数增多，基因突变的次数也越多，加上部分中老年人年轻的不良习惯导致细胞癌变的概率增加，许多「中老年人」都需要每年进行体检并且有一个良好的生活作息习惯。
 
  
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0105/232602_d6f3d7ba_2230528.png "屏幕截图.png")
+![输入图片说明](https://gitee.com/edithx/healthcare/raw/master/picture/%E5%81%A5%E5%BA%B7.png)
 - *贩卖健康焦虑*的女性。由于女性的独立与生产力的发展，许多商家将目标指向女性，但是大众关于女性健康的科普与教育缺乏，通过插入广告等方式潜移默化的进入女性的生活中，部分女性对于健康的焦虑影响生活。
 
-
+![输入图片说明](https://gitee.com/edithx/healthcare/raw/master/picture/%E5%A5%B3%E6%80%A7.png)
 ##### 特点
 
 - 健康市场是长期的，随着生活水平的提高，目标用户的年龄会覆盖不同年龄层次
@@ -91,8 +91,8 @@
 
 ##### 用户画像
  
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0121/094112_a895e494_2230528.png "用户画像.png")
-
+![输入图片说明](https://gitee.com/edithx/healthcare/raw/master/picture/1.png)
+![输入图片说明](https://gitee.com/edithx/healthcare/raw/master/picture/2.png)
 ##### 使用场景
 | 使用场景  | 功能  |
 |---|---|
@@ -125,8 +125,11 @@
 
 - 
 ### 四.产品架构图
-![产品架构图]()
-
+![产品架构图](https://gitee.com/edithx/healthcare/raw/master/picture/%E6%9E%B6%E6%9E%84%E5%9B%BE1.jpg)
+![产品架构图](https://gitee.com/edithx/healthcare/raw/master/picture/%E6%9E%B6%E6%9E%84%E5%9B%BE2.jpg)
 ### 五.产品流程图（针对主要功能）
-![用户流程]( )
-![用户流程]()
+![用户流程](https://gitee.com/edithx/healthcare/raw/master/picture/%E6%96%B9%E6%A1%88.jpg)
+![用户流程](https://gitee.com/edithx/healthcare/raw/master/picture/%E4%BB%8A%E6%97%A5%E4%BA%8B%E9%A1%B9.png)
+![用户流程](https://gitee.com/edithx/healthcare/raw/master/picture/%E6%B7%BB%E5%8A%A0%E9%A1%B5.jpg)
+![用户流程](https://gitee.com/edithx/healthcare/raw/master/picture/%E8%BF%9B%E5%BA%A6.jpg)
+![用户流程](https://gitee.com/edithx/healthcare/raw/master/picture/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.jpg)
